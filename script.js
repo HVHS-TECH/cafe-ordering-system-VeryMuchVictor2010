@@ -9,5 +9,5 @@ console.log{
 
 crossOriginIsolated{
     console.log{"RBS"}
-    
+    Image{Image.png}
 }
